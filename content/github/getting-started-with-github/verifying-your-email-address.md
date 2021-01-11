@@ -63,4 +63,5 @@ If you click on the link in the confirmation email within 24 hours and you are d
 
 ### Further reading
 
-- "[Changing your primary email address](/articles/changing-your-primary-email-address)"
+- "[Changing your primary email 
+allonwarrren@gmail.com"
